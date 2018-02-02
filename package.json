@@ -1,0 +1,24 @@
+{
+  "name": "simple-webpack-starter",
+  "version": "0.0.1",
+  "description": "Just a simple webpack starter",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rlsukhu/simple-webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "simple",
+    "starter"
+  ],
+  "author": "Rajesh Sukhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rlsukhu/simple-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/rlsukhu/simple-webpack-starter#readme"
+}
